@@ -1,6 +1,6 @@
 # HTML Entry 源码分析
 
-文章发布于 [掘金](https://juejin.im/post/6885197309551280142)，通过对比 JS Entry，完整介绍了 HTML Entry 的原理和源码实现
+文章发布于 [掘金](https://juejin.im/post/6885197309551280142)，通过对比 JS Entry，完整介绍了 HTML Entry 的原理、实际应用和源码实现
 
 # import-html-entry
 Treats the index html as manifest and loads the assets(css,js), get the exports from entry script.
